@@ -3,17 +3,17 @@
 ![Image](http://puu.sh/k88nY/7cca92b064.png)
 
 2. Once you've completed the sign-up, skip past the the Company inquery
-!(http://puu.sh/k88As/5e8594643b.png)
+[signup](http://puu.sh/k88As/5e8594643b.png)
 
 3. For the purpose of this guide, name the app "Clubs"
-!(http://puu.sh/k88Ly/ab8db86e62.png)
+![name](http://puu.sh/k88Ly/ab8db86e62.png)
 
 ##Introduction to Ionic Creator
 
 This guide will show you how to build an app to help you keep track of the clubs you are involved in. Who knows, other people might find your app useful!
 
 1. Let's begin by picking a page template by clicking on the "pages" option at the top left of your page.
-!(http://puu.sh/k88T9/9b59f8e896.png)
+![pages](http://puu.sh/k88T9/9b59f8e896.png)
 
 2. Select the "Login" page
 
@@ -22,7 +22,7 @@ This guide will show you how to build an app to help you keep track of the clubs
 4. Go back to the pages option again and select the "Tabs" page
 
 5. Now you should have 3 pages avaliable to you
-!(http://puu.sh/k897Q/c4fb18bb8b.png)
+![pages](http://puu.sh/k897Q/c4fb18bb8b.png)
 
 6. Navigate to the "Login" page by clicking the "Login" page in your list of pages
 
@@ -31,10 +31,10 @@ You can see that the page already has a template for you. Let's talk about the L
 After they enter their credentials, they should be sent to the main page, so let's set that up!
 
 7. Click the "Log in" button on the "Login" page. Link the button to go to "Tabs - /tabs". 
-!(http://puu.sh/k89um/d92b91fdad.png)
+![tabs](http://puu.sh/k89um/d92b91fdad.png)
 
 8. Let's test to see that it works! Click the "Edit/Test" switch on the top right of your page"
-!(http://puu.sh/k89zD/cc05e02178.png)
+![preview](http://puu.sh/k89zD/cc05e02178.png)
 
 Pressing the "Log in" button should lead you to the main app page! Now let's go exlpore more of Ionic Creator!
 
@@ -104,7 +104,7 @@ The app you created looks great but wouldn't it be cool if everyone could have t
 
 1. Let's export the code we've been working on! Head over to the top-left of yoru page and press the export icon!
 ![export](http://puu.sh/k8bO9/075f772dab.png)
-![exporting](http://puu.sh/k8bO9/075f772dab.png)
+![exporting](http://puu.sh/k8c57/b9a158725e.png)
 
 2. Export your work as a Zip File and save the file to your documents or a flash drive! 
 ![zip](http://puu.sh/k8bSG/ae5b8793d6.png)
