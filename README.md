@@ -107,6 +107,8 @@ Now let's work on the third tab, "Profile"
 ![profile](http://puu.sh/k8b4D/1ea0f736bc.png)
 
 2. Now let's add an image source! Find a picture of yourself on the internet and right click on the image and press "Copy image source". 
+
+
 ![lol](http://puu.sh/k8bbi/5afbff641a.png)
 
 3. Now that you have the image source copied, paste the URL into the source attribute on the image component!
